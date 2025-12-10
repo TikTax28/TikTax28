@@ -2,7 +2,7 @@
 I'm Tommy Tran, a fourth-year Computer Science student from the Netherlands with a strong interest in software development, data engineering, and cybersecurity. I enjoy building practical, scalable solutions and learning new technologies through real-world projects.
 
 - 🔭 I’m currently working on ...
-Applying for software engineering internships in Japan 🇯🇵
+Applying for software engineering internships
 Improving my skills in C#, Python, and web development
 Strengthening my understanding of concurrency, APIs, and cloud technologies
 
